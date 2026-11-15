@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.2",
+  "versionCode": 3,
+  "releaseTag": "v0.1.2",
+  "publicRepository": "yizhimaomaochong/sleepwake_apk_public",
+  "apkFile": "sleepwake.apk",
+  "apkSha256": "9c616772863218b658cddf159e1f5fcf765f38e384ca3cdd41438931dc9cb84c",
+  "notes": "增加应用内检查更新；下载并校验新版 APK 后，交由安卓系统确认覆盖安装。"
+}
